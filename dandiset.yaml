@@ -35,16 +35,96 @@ assetsSummary:
   - BehavioralTimeSeries
   - ProcessingModule
   - Units
-citation: Tauffer, Luiz (2022) Active Touch and Self-Motion Encoding by Merkel Cell-Associated
+citation: Severson, Kyle; Xu, Duo; Van de Loo, Margaret; Bai, Ling; Ginty, David D;
+  O’Connor, Daniel H. (2022) Active Touch and Self-Motion Encoding by Merkel Cell-Associated
   Afferents (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000226/draft
 contributor:
 - affiliation: []
-  email: luiz_tauffer@hotmail.com
+  email: ksseverson57@gmail.com
+  identifier: 0000-0002-7910-6304
   includeInCitation: true
-  name: Tauffer, Luiz
+  name: Severson, Kyle
   roleName:
+  - dcite:Author
   - dcite:ContactPerson
   schemaKey: Person
+- affiliation: []
+  email: dxu14@jhmi.edu
+  identifier: 0000-0002-8259-8688
+  includeInCitation: true
+  name: Xu, Duo
+  roleName:
+  - dcite:Author
+  - dcite:ContactPerson
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Van de Loo, Margaret
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  identifier: 0000-0002-9227-0715
+  includeInCitation: true
+  name: Bai, Ling
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  email: david_ginty@hms.harvard.edu
+  includeInCitation: true
+  name: Ginty, David D
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  email: dan.oconnor@jhmi.edu
+  identifier: 0000-0002-9193-6714
+  includeInCitation: true
+  name: O’Connor, Daniel H.
+  roleName:
+  - dcite:Author
+  - dcite:ContactPerson
+  schemaKey: Person
+- affiliation: []
+  email: ben.dichter@gmail.com
+  identifier: 0000-0001-5725-6910
+  includeInCitation: false
+  name: Dichter, Ben
+  roleName:
+  - dcite:Other
+  schemaKey: Person
+- affiliation: []
+  email: luiz_tauffer@hotmail.com
+  includeInCitation: false
+  name: Tauffer, Luiz
+  roleName:
+  - dcite:Other
+  schemaKey: Person
+- contactPoint: []
+  identifier: https://ror.org/00her7k05
+  includeInCitation: false
+  name: Whitehall Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.whitehall.org/
+- contactPoint: []
+  identifier: https://ror.org/01q222b25
+  includeInCitation: false
+  name: Esther A. & Joseph Klingenstein Fund
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.klingfund.org/
+- contactPoint: []
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.nih.gov/
 dateCreated: '2022-03-21T12:35:09.864743+00:00'
 description: O'Connor - TG dataset
 ethicsApproval: []
