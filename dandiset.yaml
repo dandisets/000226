@@ -139,8 +139,10 @@ name: Active Touch and Self-Motion Encoding by Merkel Cell-Associated Afferents
 protocol: []
 relatedResource:
 - identifier: https://doi.org/10.1016/j.neuron.2017.03.045
+  name: Active Touch and Self-Motion Encoding by Merkel Cell-Associated Afferents
   relation: dcite:IsPublishedIn
   schemaKey: Resource
+  url: https://doi.org/10.1016/j.neuron.2017.03.045
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.2
