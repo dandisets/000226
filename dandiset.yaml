@@ -36,7 +36,7 @@ assetsSummary:
   - ProcessingModule
   - BehavioralTimeSeries
 citation: Severson, Kyle; Xu, Duo; Van de Loo, Margaret; Bai, Ling; Ginty, David D;
-  O’Connor, Daniel H. (2022) Active Touch and Self-Motion Encoding by Merkel Cell-Associated
+  OConnor, Daniel H (2022) Active Touch and Self-Motion Encoding by Merkel Cell-Associated
   Afferents (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000226/draft
 contributor:
 - affiliation: []
@@ -81,7 +81,7 @@ contributor:
   email: dan.oconnor@jhmi.edu
   identifier: 0000-0002-9193-6714
   includeInCitation: true
-  name: O’Connor, Daniel H.
+  name: OConnor, Daniel H
   roleName:
   - dcite:Author
   - dcite:ContactPerson
@@ -132,7 +132,7 @@ id: DANDI:000226/draft
 identifier: DANDI:000226
 keywords: []
 license:
-- spdx:CC0-1.0
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000226/versions/draft/assets/
 name: Active Touch and Self-Motion Encoding by Merkel Cell-Associated Afferents
