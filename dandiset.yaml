@@ -23,18 +23,18 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 11503138414
-  numberOfFiles: 36
-  numberOfSubjects: 29
+  numberOfBytes: 13223312182
+  numberOfFiles: 60
+  numberOfSubjects: 43
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured:
-  - Units
-  - ProcessingModule
   - BehavioralTimeSeries
+  - ProcessingModule
+  - Units
 citation: Severson, Kyle; Xu, Duo; Van de Loo, Margaret; Bai, Ling; Ginty, David D;
   OConnor, Daniel H (2022) Active Touch and Self-Motion Encoding by Merkel Cell-Associated
   Afferents (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000226/draft
