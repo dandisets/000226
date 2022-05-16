@@ -17,13 +17,13 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: behavioral technique
-    schemaKey: MeasurementTechniqueType
   - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: behavioral technique
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 13223312182
+  numberOfBytes: 13745152235
   numberOfFiles: 60
   numberOfSubjects: 43
   schemaKey: AssetsSummary
@@ -32,9 +32,9 @@ assetsSummary:
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured:
+  - Units
   - BehavioralTimeSeries
   - ProcessingModule
-  - Units
 citation: Severson, Kyle; Xu, Duo; Van de Loo, Margaret; Bai, Ling; Ginty, David D;
   OConnor, Daniel H (2022) Active Touch and Self-Motion Encoding by Merkel Cell-Associated
   Afferents (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000226/draft
