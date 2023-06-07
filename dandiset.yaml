@@ -36,7 +36,7 @@ assetsSummary:
   - BehavioralTimeSeries
   - ProcessingModule
 citation: Severson, Kyle; Xu, Duo; Van de Loo, Margaret; Bai, Ling; Ginty, David D;
-  O'Connor, Daniel H (2022) Active Touch and Self-Motion Encoding by Merkel Cell-Associated
+  O'Connor, Daniel H (2023) Active Touch and Self-Motion Encoding by Merkel Cell-Associated
   Afferents (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000226/draft
 contributor:
 - affiliation: []
@@ -127,6 +127,7 @@ contributor:
   schemaKey: Organization
   url: http://www.nih.gov/
 dateCreated: '2022-03-21T12:35:09.864743+00:00'
+datePublished: '2023-06-07T17:47:54.403950+00:00'
 description: Touch perception depends on integrating signals from multiple types of
   peripheral mechanoreceptors. Merkel-cell associated afferents are thought to play
   a major role in form perception by encoding surface features of touched objects.
@@ -150,6 +151,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000226/versions/draft/assets/
 name: Active Touch and Self-Motion Encoding by Merkel Cell-Associated Afferents
 protocol: []
+publishedBy:
+  endDate: '2023-06-07T17:47:54.403950+00:00'
+  id: urn:uuid:a76eb3d9-b8a1-4a3c-84c0-f3caa657f1fc
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-06-07T17:47:54.403950+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:a164392b-91df-4f73-b321-c859b46e5062
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1016/j.neuron.2017.03.045
   name: Active Touch and Self-Motion Encoding by Merkel Cell-Associated Afferents
