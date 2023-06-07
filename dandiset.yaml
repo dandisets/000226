@@ -37,7 +37,7 @@ assetsSummary:
   - ProcessingModule
 citation: Severson, Kyle; Xu, Duo; Van de Loo, Margaret; Bai, Ling; Ginty, David D;
   O'Connor, Daniel H (2023) Active Touch and Self-Motion Encoding by Merkel Cell-Associated
-  Afferents (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000226/draft
+  Afferents (Version 0.230607.1747) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000226/0.230607.1747
 contributor:
 - affiliation: []
   email: ksseverson57@gmail.com
@@ -141,14 +141,15 @@ description: Touch perception depends on integrating signals from multiple types
   activity of specific muscles. Thus, Merkel afferents send to the brain multiplexed
   information about whisker position and surface features, suggesting that proprioception
   and touch converge at the earliest neural level.
+doi: 10.48324/dandi.000226/0.230607.1747
 ethicsApproval: []
-id: DANDI:000226/draft
+id: DANDI:000226/0.230607.1747
 identifier: DANDI:000226
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000226/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000226/0.230607.1747/assets.yaml
 name: Active Touch and Self-Motion Encoding by Merkel Cell-Associated Afferents
 protocol: []
 publishedBy:
@@ -173,6 +174,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.2
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000226/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000226/0.230607.1747
+version: 0.230607.1747
 wasGeneratedBy: []
